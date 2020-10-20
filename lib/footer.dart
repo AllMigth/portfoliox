@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:portafolioX/coolors.dart';
-import 'package:portafolioX/header.dart';
+import 'coolors.dart';
+import 'header.dart';
 import 'package:velocity_x/velocity_x.dart';
 
 class FooterScreen extends StatelessWidget {

@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:portafolioX/coolors.dart';
-
+import 'coolors.dart';
 import 'home.dart';
 
 void main() {
